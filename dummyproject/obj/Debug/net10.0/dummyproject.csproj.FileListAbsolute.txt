@@ -1,0 +1,14 @@
+C:\Users\shiva\Desktop\NET\dummyproject\bin\Debug\net10.0\dummyproject.exe
+C:\Users\shiva\Desktop\NET\dummyproject\bin\Debug\net10.0\dummyproject.deps.json
+C:\Users\shiva\Desktop\NET\dummyproject\bin\Debug\net10.0\dummyproject.runtimeconfig.json
+C:\Users\shiva\Desktop\NET\dummyproject\bin\Debug\net10.0\dummyproject.dll
+C:\Users\shiva\Desktop\NET\dummyproject\bin\Debug\net10.0\dummyproject.pdb
+C:\Users\shiva\Desktop\NET\dummyproject\obj\Debug\net10.0\dummyproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\Desktop\NET\dummyproject\obj\Debug\net10.0\dummyproject.AssemblyInfoInputs.cache
+C:\Users\shiva\Desktop\NET\dummyproject\obj\Debug\net10.0\dummyproject.AssemblyInfo.cs
+C:\Users\shiva\Desktop\NET\dummyproject\obj\Debug\net10.0\dummyproject.csproj.CoreCompileInputs.cache
+C:\Users\shiva\Desktop\NET\dummyproject\obj\Debug\net10.0\dummyproject.dll
+C:\Users\shiva\Desktop\NET\dummyproject\obj\Debug\net10.0\refint\dummyproject.dll
+C:\Users\shiva\Desktop\NET\dummyproject\obj\Debug\net10.0\dummyproject.pdb
+C:\Users\shiva\Desktop\NET\dummyproject\obj\Debug\net10.0\dummyproject.genruntimeconfig.cache
+C:\Users\shiva\Desktop\NET\dummyproject\obj\Debug\net10.0\ref\dummyproject.dll

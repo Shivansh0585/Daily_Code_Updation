@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EmployeeMGMTApp/1.0.0": {
+        "dependencies": {
+          "EmployeeMGMT": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeMGMTApp.dll": {}
+        }
+      },
+      "EmployeeMGMT/1.0.0": {
+        "runtime": {
+          "EmployeeMGMT.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeMGMTApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeMGMT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

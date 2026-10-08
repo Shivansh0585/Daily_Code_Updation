@@ -1,0 +1,16 @@
+1=> when data is stored in list , HashSet , Dictionary Object we can perform the operation for manipulation using LINQ Query 
+ There are so many LINQ operators for the same work.
+1. Where*
+2. Find
+3. First 
+4. FirstOrDefault*
+5.Single
+6.SingleOrDefault
+
+Generally when we develop the project we use primarily use keywords like:
+1. where (Supports Deffered Execution).
+2.firstOrDefault
+To Start the Syllabus we should know the working of the remaining operators 
+
+task is an extension to thread 
+

@@ -1,0 +1,32 @@
+1=> Find 
+
+2=>Where
+
+3=> First
+
+4=>FirstOrDefault
+
+5=>Single
+
+6=>SingleOrDefault
+
+..................................................................................................................................................................
+
+Find : 
+1.Find is an Extension Method(List class) , Find is used on the primary keys .
+2.It Searches the list and returns the first element that specifies the specific (given )condition.
+3.If no element is found , it returns the default value that is null .
+
+Strong Points :
+1.No need to apply the exception handling , as we can simply handle the null return type with if else and show the message that the record is not found.
+ (Commited exceptions are those which are known to be happening / Known that it might happen frequently).
+
+ ..................................................................................................................................................................
+
+ Where :
+1.Where is a filtering method.
+ 2. It returns All the elements that satisfy the Specific condition (given condtion ,for ex. i<=2&&i>=-2) .
+ 3. Where is not used on primariy keys and more over duplicate types such as names and surnames or emails 
+ 4.It returns null when there is no matching record found and hence we don't have use the exception handling and just like find
+  we use if else to do the exception case if data is not found .
+ 5.

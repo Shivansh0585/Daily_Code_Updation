@@ -1,0 +1,57 @@
+Day 4 Syllabus Agenda :
+
+-> Advanced Generics , Delegate ,Stacks , Heap ,Value Type , Refrence Type ,Garbage Collection (mostly asked in final assesment).
+
+Major Topics for today's sessions:
+
+-> Advanced Generics ,Delegate. (Most Important topics)
+
+(Day 3 ,Day 4 ,Day 5 are the important topics for capestone project)     
+..........................................................................................
+
+We have done the practice of List , Dictionary , HashSet , These are the inbuilt generics ,
+Now we have to create our own Generics 
+
+1.Generic Class 
+-> Generic Class Means if Any class ends with Angular bracket (<>) and within the Angular bracket 
+we can pass formal types (T as in Examples) and same T can Act as multi purpose like Integer ,String etc.
+Hence Known as Generic Class . Or we can say if any class is said to be generic class we can use it for mutiple purpose.
+CISC architecture of CPUS (As it can run both ARM emulation and X86 Application instruction set)
+ and Playgrouds(children can play different games on it hence generilized use) can be best examles for it.
+
+2.Generic Function
+-> If Any fuction can work on Multiple Types Like : applying for leave (one type being used for integer numbers and also string message)
+same funtion being used for different types.
+
+3.Generic Interface
+-> The purpose of using genric interface is that same interface can be used by different programmers over different types Which provides loose coupling
+
+
+4.Generic Constraints
+-> Generic Constraints means we can fix a type so that T can behave Properly (Value Type or Refrence Type).
+
+....................................................................................................................................................................................
+
+Garbage Collection:
+
+-> Garbage collection deallocates the assigned memory for the employee class in heap instantly and re purpose it to somewhere needed , Following are the steps:
+
+Step 1: IDisposable is an interface contains the function Dispose()
+Step 2: We have to create an object of Employee class whithin the "using Block" (Most frequently asked)
+Step 3: If i am not use the  using block then garbage collection will not execute to clean up the memory 
+
+..........................................................................................................................................................................
+
+Delegate : (Very Important Topic and asked in evaluation round)
+
+Introduction to Delegate: Assume we have the class containing three or four functions and i want to expose one or two functions to end user to give a solution
+(delegate or solution pointer) function pointer is equal to delegate in java python.
+
+1. Delegate is the right person known as function pointer in C/C++.
+2. Using delegate we can decide which function needs to be exposed to the end user and which not.
+3. Using Delegate we can achieve high end of Abstraction (Encapsulation).
+
+Inbuilt Delegate ->Action Delegate , Func Delegate , Predicate Delegate
+
+Assignment for today :
+Complete all the programs for Day 4 and send before 

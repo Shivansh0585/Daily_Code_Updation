@@ -1,0 +1,14 @@
+C:\Users\shiva\Desktop\NET\Day5_Real\EMployeeMGST\obj\Debug\net10.0\EMployeeMGST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\Desktop\NET\Day5_Real\EMployeeMGST\obj\Debug\net10.0\EMployeeMGST.AssemblyInfoInputs.cache
+C:\Users\shiva\Desktop\NET\Day5_Real\EMployeeMGST\obj\Debug\net10.0\EMployeeMGST.AssemblyInfo.cs
+C:\Users\shiva\Desktop\NET\Day5_Real\EMployeeMGST\obj\Debug\net10.0\EMployeeMGST.csproj.CoreCompileInputs.cache
+C:\Users\shiva\Desktop\NET\Day5_Real\EMployeeMGST\bin\Debug\net10.0\EMployeeMGST.exe
+C:\Users\shiva\Desktop\NET\Day5_Real\EMployeeMGST\bin\Debug\net10.0\EMployeeMGST.deps.json
+C:\Users\shiva\Desktop\NET\Day5_Real\EMployeeMGST\bin\Debug\net10.0\EMployeeMGST.runtimeconfig.json
+C:\Users\shiva\Desktop\NET\Day5_Real\EMployeeMGST\bin\Debug\net10.0\EMployeeMGST.dll
+C:\Users\shiva\Desktop\NET\Day5_Real\EMployeeMGST\bin\Debug\net10.0\EMployeeMGST.pdb
+C:\Users\shiva\Desktop\NET\Day5_Real\EMployeeMGST\obj\Debug\net10.0\EMployeeMGST.dll
+C:\Users\shiva\Desktop\NET\Day5_Real\EMployeeMGST\obj\Debug\net10.0\refint\EMployeeMGST.dll
+C:\Users\shiva\Desktop\NET\Day5_Real\EMployeeMGST\obj\Debug\net10.0\EMployeeMGST.pdb
+C:\Users\shiva\Desktop\NET\Day5_Real\EMployeeMGST\obj\Debug\net10.0\EMployeeMGST.genruntimeconfig.cache
+C:\Users\shiva\Desktop\NET\Day5_Real\EMployeeMGST\obj\Debug\net10.0\ref\EMployeeMGST.dll

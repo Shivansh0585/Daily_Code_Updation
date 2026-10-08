@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "tmTLlVLKwus=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shiva\\Desktop\\NET\\Day5_Real\\EMployeeMGST\\EMployeeMGST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\system.text.json\\10.0.12\\system.text.json.10.0.12.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Text.Json will not be pruned. This package is automatically available and does not need to be referenced explicitly. Remove the PackageReference item.",
+      "projectPath": "C:\\Users\\shiva\\Desktop\\NET\\Day5_Real\\EMployeeMGST\\EMployeeMGST.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\shiva\\Desktop\\NET\\Day5_Real\\EMployeeMGST\\EMployeeMGST.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

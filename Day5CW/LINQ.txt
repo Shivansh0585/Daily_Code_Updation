@@ -1,0 +1,11 @@
+Limitations of Find :
+1-> Select is not allowed with find.
+
+........................................................................................................
+
+Introduction to DTO : (Data transfer Object)
+
+..........................................................................................................................
+
+1->Apply exception handling in employee operation class .
+2-> deffered execution + Access modifier .

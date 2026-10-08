@@ -1,0 +1,14 @@
+C:\Users\shiva\Desktop\NET\Day7_Tpl\Tpl_programming\bin\Debug\net10.0\Tpl_programming.exe
+C:\Users\shiva\Desktop\NET\Day7_Tpl\Tpl_programming\bin\Debug\net10.0\Tpl_programming.deps.json
+C:\Users\shiva\Desktop\NET\Day7_Tpl\Tpl_programming\bin\Debug\net10.0\Tpl_programming.runtimeconfig.json
+C:\Users\shiva\Desktop\NET\Day7_Tpl\Tpl_programming\bin\Debug\net10.0\Tpl_programming.dll
+C:\Users\shiva\Desktop\NET\Day7_Tpl\Tpl_programming\bin\Debug\net10.0\Tpl_programming.pdb
+C:\Users\shiva\Desktop\NET\Day7_Tpl\Tpl_programming\obj\Debug\net10.0\Tpl_programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\Desktop\NET\Day7_Tpl\Tpl_programming\obj\Debug\net10.0\Tpl_programming.AssemblyInfoInputs.cache
+C:\Users\shiva\Desktop\NET\Day7_Tpl\Tpl_programming\obj\Debug\net10.0\Tpl_programming.AssemblyInfo.cs
+C:\Users\shiva\Desktop\NET\Day7_Tpl\Tpl_programming\obj\Debug\net10.0\Tpl_programming.csproj.CoreCompileInputs.cache
+C:\Users\shiva\Desktop\NET\Day7_Tpl\Tpl_programming\obj\Debug\net10.0\Tpl_programming.dll
+C:\Users\shiva\Desktop\NET\Day7_Tpl\Tpl_programming\obj\Debug\net10.0\refint\Tpl_programming.dll
+C:\Users\shiva\Desktop\NET\Day7_Tpl\Tpl_programming\obj\Debug\net10.0\Tpl_programming.pdb
+C:\Users\shiva\Desktop\NET\Day7_Tpl\Tpl_programming\obj\Debug\net10.0\Tpl_programming.genruntimeconfig.cache
+C:\Users\shiva\Desktop\NET\Day7_Tpl\Tpl_programming\obj\Debug\net10.0\ref\Tpl_programming.dll

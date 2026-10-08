@@ -1,0 +1,15 @@
+Assembly - executable and dll files produced (as there is the .class file created in java)
+
+=> When there is the CS project in which there is no main function the project when ran with the build command will generate the DLL
+Whereas, If there is indeed a Main function present the built output will be EXE file 
+
+=> DLL can be made by the command of "dotnet new classLib"
+
+=> DLL can have multiple EXEs , UI is EXE , Exe operates upon the DLL.
+
+Agenda for tommorow :
+
+=> the main project proto would be implemented with the TPL and dto(Projection).
+=> Event Programming using delegate
+=>Access Modifiers 
+

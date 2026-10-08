@@ -1,0 +1,14 @@
+C:\Users\shiva\Desktop\NET\Day4Assignment\obj\Debug\net10.0\Day4Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\Desktop\NET\Day4Assignment\obj\Debug\net10.0\Day4Assignment.AssemblyInfoInputs.cache
+C:\Users\shiva\Desktop\NET\Day4Assignment\obj\Debug\net10.0\Day4Assignment.AssemblyInfo.cs
+C:\Users\shiva\Desktop\NET\Day4Assignment\obj\Debug\net10.0\Day4Assignment.csproj.CoreCompileInputs.cache
+C:\Users\shiva\Desktop\NET\Day4Assignment\bin\Debug\net10.0\Day4Assignment.exe
+C:\Users\shiva\Desktop\NET\Day4Assignment\bin\Debug\net10.0\Day4Assignment.deps.json
+C:\Users\shiva\Desktop\NET\Day4Assignment\bin\Debug\net10.0\Day4Assignment.runtimeconfig.json
+C:\Users\shiva\Desktop\NET\Day4Assignment\bin\Debug\net10.0\Day4Assignment.dll
+C:\Users\shiva\Desktop\NET\Day4Assignment\bin\Debug\net10.0\Day4Assignment.pdb
+C:\Users\shiva\Desktop\NET\Day4Assignment\obj\Debug\net10.0\Day4Assignment.dll
+C:\Users\shiva\Desktop\NET\Day4Assignment\obj\Debug\net10.0\refint\Day4Assignment.dll
+C:\Users\shiva\Desktop\NET\Day4Assignment\obj\Debug\net10.0\Day4Assignment.pdb
+C:\Users\shiva\Desktop\NET\Day4Assignment\obj\Debug\net10.0\Day4Assignment.genruntimeconfig.cache
+C:\Users\shiva\Desktop\NET\Day4Assignment\obj\Debug\net10.0\ref\Day4Assignment.dll
